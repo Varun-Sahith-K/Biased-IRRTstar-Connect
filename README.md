@@ -1,1 +1,1 @@
-# Robotic-Path-Planning-with-HRL
+# Biased IRRT*-Connect Algorithm
